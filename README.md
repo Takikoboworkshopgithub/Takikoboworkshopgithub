@@ -18,6 +18,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Takikoboworkshopgithub&theme=gruvbox&utcOffset=9)
 
 ## Trophy
-## ![trophy](https://github-profile-trophy.vercel.app/?username=Takikoboworkshopgithub&theme=gruvbox)
+![trophy](https://github-profile-trophy.vercel.app/?username=Takikoboworkshopgithub&theme=gruvbox)
 
 
