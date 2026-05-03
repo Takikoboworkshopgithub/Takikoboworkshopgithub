@@ -2,7 +2,7 @@
 
 ### 👤 Profile
 - 🎓 **明治大学 プログラミングサークル「IQ」代表**
-- 🏆 **AtCoder🟩**: Python
+- 🏆 **AtCoder🟩**: Pythonを用いてごり押ししてます。AtCoder Algorithm Lectureを解析したい
 - 📊 **Data Science**: Kaggle等のコンペティションに参加し、機械学習を用いた予測モデルの構築を学習中。
 - 🎹 **Creative**: Ableton LiveでのDTM、Blender（3DCG/VFX）やAviUtlを用いた映像制作。
 
