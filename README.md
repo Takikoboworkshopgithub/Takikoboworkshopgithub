@@ -1,10 +1,10 @@
-# 👋 Hello, I'm Takiguchi
+# Hello, I'm Takiguchi
 
-### 👤 Profile
-- 🎓 **明治大学 プログラミングサークル「IQ」代表**
-- 🏆 **AtCoder 緑コーダー🟩**: Pythonを用いてごり押ししてます。AtCoder Algorithm Lectureを解析したい
-- 📊 **Data Science**: Kaggle等のコンペティションに参加し、機械学習を用いた予測モデルの構築を学習中。
-- 🎹 **Creative**: Ableton LiveでのDTM、Blender（3DCG/VFX）やAviUtlを用いた映像制作。
+###  Profile
+-  **明治大学 プログラミングサークル「IQ」代表してます。**
+-  **AtCoder🟩**: Python_User
+-  **Data Science**: Kaggle等のコンペに参加しながら、勉強中
+-  **Creative**: Ableton LiveでのDTM、Blender（3DCG/VFX）やAviUtlを用いた映像制作が趣味です！最近Adobeの軍門に下った
 
 <p align="left">
   <img src="videos/introduction.gif" width="400px" alt="What I Do">
