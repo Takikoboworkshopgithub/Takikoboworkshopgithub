@@ -10,37 +10,37 @@
   <tr>
     <td width="100" align="center">
       <sup>C++</sup><br>
-      <img width="40" src="icon/cpp.svg">
+      <img width="40" src="https://skillicons.dev/icons?i=cpp">
     </td>
     <td width="100" align="center">
       <sup>Python</sup><br>
-      <img width="40" src="icon/python.svg">
+      <img width="40" src="https://skillicons.dev/icons?i=python">
     </td>
     <td width="100" align="center">
       <sup>LaTeX</sup><br>
-      <img width="40" src="icon/latex.svg">
+      <img width="40" src="https://skillicons.dev/icons?i=latex">
     </td>
     <td width="100" align="center">
       <sup>JavaScript</sup><br>
-      <img width="40" src="icon/javascript.svg">
+      <img width="40" src="https://skillicons.dev/icons?i=js">
     </td>
   </tr>
   <tr>
     <td width="100" align="center">
       <sup>HTML</sup><br>
-      <img width="40" src="icon/html.svg">
+      <img width="40" src="https://skillicons.dev/icons?i=html">
     </td>
     <td width="100" align="center">
       <sup>CSS</sup><br>
-      <img width="40" src="icon/css.svg">
+      <img width="40" src="https://skillicons.dev/icons?i=css">
     </td>
     <td width="100" align="center">
       <sup>C</sup><br>
-      <img width="40" src="icon/c.svg">
+      <img width="40" src="https://skillicons.dev/icons?i=c">
     </td>
     <td width="100" align="center">
       <sup>Bash</sup><br>
-      <img width="40" src="icon/bash.svg">
+      <img width="40" src="https://skillicons.dev/icons?i=bash">
     </td>
   </tr>
 
@@ -50,15 +50,15 @@
   <tr>
     <td width="100" align="center">
       <sup>Node.js</sup><br>
-      <img width="40" src="icon/nodejs.svg">
+      <img width="40" src="https://skillicons.dev/icons?i=nodejs">
     </td>
     <td width="100" align="center">
       <sup>Tailwind CSS</sup><br>
-      <img width="40" src="icon/tailwind.svg">
+      <img width="40" src="https://skillicons.dev/icons?i=tailwind">
     </td>
     <td width="100" align="center">
       <sup>Pyxel</sup><br>
-      <img width="40" src="icon/pyxel.png">
+      <img width="40" src="https://raw.githubusercontent.com/kitao/pyxel/main/docs/images/pyxel_logo_152x64.png">
     </td>
     <td></td>
   </tr>
@@ -69,19 +69,19 @@
   <tr>
     <td width="100" align="center">
       <sup>Blender</sup><br>
-      <img width="40" src="icon/blender.svg">
+      <img width="40" src="https://skillicons.dev/icons?i=blender">
     </td>
     <td width="100" align="center">
       <sup>Ableton Live</sup><br>
-      <img width="40" src="icon/ableton.svg">
+      <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Ableton_Live_logo.svg/128px-Ableton_Live_logo.svg.png">
     </td>
     <td width="100" align="center">
       <sup>MuseScore</sup><br>
-      <img width="40" src="icon/musescore.svg">
+      <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/musescore/musescore-original.svg">
     </td>
     <td width="100" align="center">
       <sup>Linux</sup><br>
-      <img width="40" src="icon/linux.svg">
+      <img width="40" src="https://skillicons.dev/icons?i=linux">
     </td>
   </tr>
 </table>
@@ -94,11 +94,11 @@
   <a href="https://github.com/Takikoboworkshopgithub/Python-Pyxel-Problems-Progress">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Takikoboworkshopgithub&repo=Python-Pyxel-Problems-Progress" width="350" alt="Python-Pyxel-Problems-Progress">
   </a>
-  <a href="https://takikoboworkshopgithub.github.io/main/">
+  <a href="https://github.com/Takikoboworkshopgithub/main">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Takikoboworkshopgithub&repo=main" width="350" alt="瀧口工房">
   </a>
   <br>
-  <a href="https://takikoboworkshopgithub.github.io/Image_editing_using_posterization/">
+  <a href="https://github.com/Takikoboworkshopgithub/Image_editing_using_posterization">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Takikoboworkshopgithub&repo=Image_editing_using_posterization" width="350" alt="Image Editing Using Posterization">
   </a>
 </div>
@@ -115,12 +115,12 @@ For more information about my works, please visit [here](https://github.com/Taki
   </tr>
   <tr>
     <td width="200">
-      <img src="icon/youtube.svg" width="40" align="left">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" width="40" align="left">
       <sub>YouTube</sub><br>
       <a href="https://youtube.com/channel/UCoYZNL4e_zLY0uOe8T1Ia7Q">YouTube Channel</a>
     </td>
     <td width="200">
-      <img src="icon/bluesky.svg" width="40" align="left">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/bluesky.svg" width="40" align="left">
       <sub>Bluesky</sub><br>
       <a href="https://bsky.app/profile/takiaki.bsky.social">@takiaki.bsky.social</a>
     </td>
