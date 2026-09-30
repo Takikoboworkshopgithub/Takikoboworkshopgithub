@@ -73,11 +73,11 @@
     </td>
     <td width="100" align="center">
       <sup>Ableton Live</sup><br>
-      <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Ableton_Live_logo.svg/128px-Ableton_Live_logo.svg.png">
+      <img width="40" src="[https://images.icon-icons.com/3911/PNG/512/abletonlive_logo_icon_247736.png](https://s3-new.macosicons.com/macosicons/parse/Ableton_Live_Suite_11_0GSJkWMfHF_lowResPng-6eba794bed.png)">
     </td>
     <td width="100" align="center">
       <sup>MuseScore</sup><br>
-      <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/musescore/musescore-original.svg">
+      <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/MuseScore_Icon.svg">
     </td>
     <td width="100" align="center">
       <sup>Linux</sup><br>
@@ -86,28 +86,33 @@
   </tr>
 </table>
 
+
 <div align="center">
   <h3>— Main Products —</h3>
 </div>
 
 <div align="center">
+  <!-- Python-Pyxel-Problems-Progress
   <a href="https://github.com/Takikoboworkshopgithub/Python-Pyxel-Problems-Progress">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Takikoboworkshopgithub&repo=Python-Pyxel-Problems-Progress" width="350" alt="Python-Pyxel-Problems-Progress">
   </a>
-  <a href="https://github.com/Takikoboworkshopgithub/main">
+  -->
+
+  <!-- Personal Website
+  <a href="https://takikoboworkshopgithub.github.io/main/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Takikoboworkshopgithub&repo=main" width="350" alt="瀧口工房">
   </a>
-  <br>
+  -->
+
+  <!-- Image Editing Using Posterization
   <a href="https://github.com/Takikoboworkshopgithub/Image_editing_using_posterization">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Takikoboworkshopgithub&repo=Image_editing_using_posterization" width="350" alt="Image Editing Using Posterization">
   </a>
+  -->
 </div>
 
-For more information about my works, please visit [here](https://github.com/Takikoboworkshopgithub), where you will find my repositories.
-
-<div align="center">
-  <h3>— Links —</h3>
-</div>
+For more information about my works, please visit
+[here](https://github.com/Takikoboworkshopgithub), where you will find my repositories.
 
 <table align="center">
   <tr>
