@@ -73,7 +73,7 @@
     </td>
     <td width="100" align="center">
       <sup>Ableton Live</sup><br>
-      <img width="40" src="[https://images.icon-icons.com/3911/PNG/512/abletonlive_logo_icon_247736.png](https://s3-new.macosicons.com/macosicons/parse/Ableton_Live_Suite_11_0GSJkWMfHF_lowResPng-6eba794bed.png)">
+      <img width="40" src="https://images.icon-icons.com/3911/PNG/512/abletonlive_logo_icon_247736.png](https://s3-new.macosicons.com/macosicons/parse/Ableton_Live_Suite_11_0GSJkWMfHF_lowResPng-6eba794bed.png">
     </td>
     <td width="100" align="center">
       <sup>MuseScore</sup><br>
